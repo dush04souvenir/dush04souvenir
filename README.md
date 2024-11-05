@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Software engineering**
 
-- 📫 How to reach me **dusouvenir@gmail.com**
+- 📫 How to reach me **dusouvenir04@gmail.com**
 
 - 📄 Know about my experiences [www.linkedin.com/in/souvenir-providence-dushime-429622329](www.linkedin.com/in/souvenir-providence-dushime-429622329)
 
