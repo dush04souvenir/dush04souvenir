@@ -1,3 +1,4 @@
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dush04souvenir&show_icons=true&locale=en" alt="dush04souvenir" /></p>
 
 <h1 align="center">Hi 👋, I'm PROVIDENCE SOUVENIR DUSHIME</h1>
 <h3 align="center">A passionate developer from RWANDA</h3>
@@ -20,5 +21,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=dush04souvenir&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dush04souvenir&show_icons=true&locale=en&layout=compact" alt="dush04souvenir" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dush04souvenir&show_icons=true&locale=en" alt="dush04souvenir" /></p>
 
