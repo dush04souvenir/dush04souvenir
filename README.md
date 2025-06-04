@@ -1,4 +1,4 @@
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=dush04souvenir&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=dush04souvenir&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 <h1 align="center">Hi 👋, I'm PROVIDENCE SOUVENIR DUSHIME</h1>
 <h3 align="center">A passionate developer from RWANDA</h3>
 
